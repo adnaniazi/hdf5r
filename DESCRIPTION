@@ -32,7 +32,7 @@ Suggests:
     rmarkdown,
     nycflights13,
     reshape2,
-SystemRequirements: HDF5 (>= 1.8.13)
+SystemRequirements: HDF5 (>= 1.8.12)
 VignetteBuilder: knitr
 NeedsCompilation: yes
 RoxygenNote: 6.1.1.9000
